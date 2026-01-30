@@ -29,5 +29,4 @@ This PowerShell script is designed to **safely stop and start the "MFACE Service
 2. Navigate to the folder containing the script:
 
 ```powershell
-cd "C:\path\to\script"
-
+cd "C:\Desktop\mface_SVC_restart_PS.ps1"
